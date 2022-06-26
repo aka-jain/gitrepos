@@ -13,4 +13,4 @@ For running test cases
 1. npm run test
 
 Framework used - React : 
-This app needed some states management and component based structure that's why React is the suitable library for this.
+This app needed some states management and component based structure that's why React is the suitable library for this. Also used fetch api for api calls.
