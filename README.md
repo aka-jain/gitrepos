@@ -1,9 +1,11 @@
 # Git Repos - Godaddy
 
-Steps to run the project
+Steps to run the project (run these commands on terminal)
 
-1. npm install
-2. npm start
+1. Clone this repo
+2. go to the godaddy directory (cd godaddy)
+3. npm install
+4. npm start
 
 Server should be run and working at localhost:3000
 
